@@ -1,0 +1,4 @@
+﻿  源.cpp
+D:\Users\Fangy\source\repos\实验二（8）\实验二（8）\源.cpp(10,16): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Users\Fangy\source\repos\实验二（8）\实验二（8）\源.cpp(14,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  实验二（8）.vcxproj -> D:\Users\Fangy\source\repos\实验二（8）\x64\Debug\实验二（8）.exe
